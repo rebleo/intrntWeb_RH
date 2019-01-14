@@ -4,7 +4,7 @@
 
 	Professor: Rebecca Leopold
 	Email: RLeopold@fordham.edu
-	Course Wiki:
+	Course Wiki: https://github.com/rebleo/intrntWeb_RH/wiki
 
 #### Course Description:
 This course covers web programming in the Internet and interactive environment. Students will gain understanding of operating system usage on a server and interactive web system design. Languages used include HTML, CSS, Java Script in addition to overviews of backend systems in Node + Express and PHP, MySQL + AJAX. (Subject to change!!).
