@@ -45,7 +45,7 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 ---
 #### [Week 01](https://github.com/rebleo/intrntWeb_RH/wiki/Week-01)
-##### Monday January 14 + Thursday January 1
+##### Monday January 14 + Thursday January 17
 * Intro to Course
 * GitHub, Markdown + the Class Wiki
 * What is the WWW?
