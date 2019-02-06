@@ -45,53 +45,58 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 ---
 #### [Week 01](https://github.com/rebleo/intrntWeb_RH/wiki/Week-01)
-##### Monday January 14 + Thursday January 17
+##### Monday January 14 + Thursday January 1
 * Intro to Course
 * GitHub, Markdown + the Class Wiki
 * What is the WWW?
-* HTML Review
-* CSS Styling
+* HTML
 
 ---
 
 #### [Week 02](https://github.com/rebleo/intrntWeb_RH/wiki/Week-02)
-##### Monday January 21 + Thursday January 24
+##### Monday Thursday January 24
+* No Class January 21 - Martin Luther King Day
+* Prototyping: Local Server + Web Dev Workflow
+* Publishing: yr Storm Server, SSH or SFTP
 * HTML 5
-* CSS Styling, IDs + Classes
+* Intro to CSS Styling
 
 ---
 
 #### [Week 03](https://github.com/rebleo/intrntWeb_RH/wiki/Week-03)
 ##### Monday January 28 + Thursday January 31
-* CSS 3
-* Responsive Web Design
+* Intro to Web Design
+* CSS Ids + Classes
+* CSS Box Model
 
 ---
 
-#### [Week 04]
+#### [Week 04](https://github.com/rebleo/intrntWeb_RH/wiki/Week-04)
 ##### Monday February 4 + Thursday February 7
-* CSS Flexbox + Grids
+* Flex Layout + Grids
+* Responsive Web Design
 * CSS Animation
-* Intro to JavaScript + the DOM
+
 ---
 
-#### [Week 05]
+#### [Week 05](https://github.com/rebleo/intrntWeb_RH/wiki/Week-05)
 ##### Monday February 11 + Thursday February 14
+* Intro to JavaScript + the DOM
 * Native JavaScript
 ---
 
-#### [Week 06]
+#### [Week 06](https://github.com/rebleo/intrntWeb_RH/wiki/Week-06)
 ##### Thursday February 21
-* No Class Monday February 18 - Martin Luther King Day
+* No Class Monday February 18 - President's Day
 
 ---
 
-#### [Week 07]
+#### [Week 07](https://github.com/rebleo/intrntWeb_RH/wiki/Week-07)
 ##### Monday February 25 + Thursday February 28
 * Intro to JQuery
 ---
 
-#### [Week 08]
+#### [Week 08](https://github.com/rebleo/intrntWeb_RH/wiki/Week-08)
 ##### Monday March 4 + Thursday March 7
 * Midterm Project Presentations
 ---
