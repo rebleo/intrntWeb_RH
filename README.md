@@ -79,15 +79,17 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 ---
 
-#### [Week 05](https://github.com/rebleo/intrntWeb_RH/wiki/Week-05)
+#### [Week 05](https://github.com/rebleo/intrntWeb_LC/wiki/Week-05)
 ##### Monday February 11 + Thursday February 14
-* Intro to JavaScript + the DOM
-* Native JavaScript
+* CSS Animation
+
 ---
 
-#### [Week 06](https://github.com/rebleo/intrntWeb_RH/wiki/Week-06)
+#### [Week 06](https://github.com/rebleo/intrntWeb_LC/wiki/Week-06)
 ##### Thursday February 21
 * No Class Monday February 18 - President's Day
+* Intro to JavaScript + the DOM
+* Native JavaScript
 
 ---
 
