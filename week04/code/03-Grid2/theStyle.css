@@ -23,7 +23,6 @@
 }
 
 
-/* this will apply the followingn styling to everything inside the */
 
 .theWrapper > div {
   border: 2px solid;
@@ -33,9 +32,10 @@
   padding: 3em;
 }
 
-.one {
+/*.one {
 	grid-column-start: 1;
 	grid-column-end: 4;
 	grid-row-start: 1;
 	grid-row-end: 3;
 }
+*/
