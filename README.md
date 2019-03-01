@@ -9,7 +9,6 @@
 #### Course Description:
 This course covers web programming in the Internet and interactive environment. Students will gain understanding of operating system usage on a server and interactive web system design. Languages used include HTML, CSS, Java Script in addition to overviews of backend systems in Node + Express and PHP, MySQL + AJAX. (Subject to change!!).
 
----
 #### Course Requirements:
 Students are expected to participate in class: contributing positively to discussions, arriving on time having thoughtfully completed the reading, technical and creative assignments. Although students will need their laptops with them for class, computers should be closed and mobile devices silent + not glowing during lecture, class discussion + critique. You should have no application, web tab or software open that is not relevant to the subject of that day’s class. The mis-use of computational + networked machines will negatively affect your grade. For real.
 ---
@@ -95,20 +94,22 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 #### [Week 07](https://github.com/rebleo/intrntWeb_RH/wiki/Week-07)
 ##### Monday February 25 + Thursday February 28
-* Intro to JQuery
+* Native JS + the DOM
+
 ---
 
 #### [Week 08](https://github.com/rebleo/intrntWeb_RH/wiki/Week-08)
 ##### Monday March 4 + Thursday March 7
-* Midterm Project Presentations
+* Midterm Project User Testing
 ---
 
-#### [Week 09]
+#### [Week 09](https://github.com/rebleo/intrntWeb_RH/wiki/Week-09)
 ##### Monday March 11 + Thursday March 14
+* Midterm Project Presentations
 
 #### Spring Break
 
-#### [Week 10]
+#### [Week 10](https://github.com/rebleo/intrntWeb_RH/wiki/Week-10)
 ##### Monday March 25 + Thursday March 28
 
 ---
