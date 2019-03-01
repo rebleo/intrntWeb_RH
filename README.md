@@ -12,6 +12,7 @@ This course covers web programming in the Internet and interactive environment. 
 ---
 #### Course Requirements:
 Students are expected to participate in class: contributing positively to discussions, arriving on time having thoughtfully completed the reading, technical and creative assignments. Although students will need their laptops with them for class, computers should be closed and mobile devices silent + not glowing during lecture, class discussion + critique. You should have no application, web tab or software open that is not relevant to the subject of that day’s class. The mis-use of computational + networked machines will negatively affect your grade. For real.
+
 ---
 
 #### Method of Evaluation:
